@@ -1,0 +1,12 @@
+{"objects":[
+{"dataset":{"city":["China"],"coordinates":[29.95,-95.41],"rank":[1],"total":[50]}},
+{"dataset":{"city":["France"],"coordinates":[40.015,-105.270],"rank":[2],"total":[45]}},
+{"dataset":{"city":["Spain"],"coordinates":[42.360,-71.058],"rank":[3],"total":[40]}},
+{"dataset":{"city":["Ireland"],"coordinates":[39.952,-75.165],"rank":[4],"total":[35]}},
+{"dataset":{"city":["England"],"coordinates":[33.448,-112.074 ],"rank":[5],"total":[30]}},
+{"dataset":{"city":["Denmark"],"coordinates":[29.424,-98.493],"rank":[6],"total":[25]}},
+{"dataset":{"city":["Portugal"],"coordinates":[32.715,-117.161],"rank":[7],"total":[20]}},
+{"dataset":{"city":["Italy"],"coordinates":[37.338,-121.886],"rank":[8],"total":[15]}},
+{"dataset":{"city":["Argentina"],"coordinates":[30.332,-81.655],"rank":[9],"total":[10]}},
+{"dataset":{"city":["Chile"],"coordinates":[39.768,-86.158],"rank":[10],"total":[5]}}
+]}
